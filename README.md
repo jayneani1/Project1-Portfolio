@@ -53,5 +53,5 @@ MVP:
 - updated portfolio projects
 
 Post MVP: 
-- animated javascript add ons.(ex in liana pens portfolio)
+- animated javascript add ons.(ex in liana penns portfolio)
 - creating unique backgrounds to have text written in/ around (like in linked inspo site)
