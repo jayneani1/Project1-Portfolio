@@ -31,29 +31,39 @@ color scheme links:
 |Day 5| Touch up portfolio projects to make them look good, may need to cut out some features if not done.  | Incomplete
 |Day 6| Present | Incomplete
 
-| Component | Estimated time| time invested | Actual Time
+
+
+|  Day | Deliverable | Status
 |---|---| ---|
-Component	Estimated Time	Time Invetsted	Actual Time
-Total Layout	       5hrs	            na	          na
-Working with API	     4.5hrs	         na	          na
-carousel/ materlize      5.5 hrs         na           na
-doc form for resume       4 hrs          na           na
-nav bar scrolling         5 hrs          na           na
-updating portfolio projs   3 hrs         na           na 
-unique background          4 hrs         na           na
-js animations              3 hrs         na           na
+|Day 1| Project Description | Incomplete
+|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 4| MVP & Bug Fixes | Incomplete
+|Day 5| Final Touches | Incomplete
+|Day 6| Present | Incomplete
 
 
-Total	H	30hrs	na na
+| Component | Estimated time| time invested | Actual Time
+|---|---| ---| ---|
+|Total Layout	|       |5hrs|	    |na|	          |na
+|creating html and css components|    |3 hrs|   |na|       |na
+|Working with API	|     |4.5hrs|	              | na|       | na
+|carousel/ materlize |     |5.5 hrs|            | na |       |na
+|doc form for resume|       |4 hrs|             |na|          |na
+|nav bar scrolling|        |5 hrs|             | na |        |na
+updating portfolio projs|   |3 hrs|            |na |         |na 
+|unique background|         | 4 hrs |        | na |         |na
+|js animations|             |3 hrs |       | na |         | na
 
-(I think the total project put together will probably take me around 45 hrs)
 
-MVP
+Total	H	31hrs	
+
+MVP:
 -responsive nav 
 -carousel w/ portfolio links
 -doc form for resume
 -updated portfolio projects
 
-post mvp 
+Post MVP: 
 -animated javascript add ons.(ex in liana pens portfolio)
 -creating unique backgrounds to have text written in/ around (like in linked inspo site)
