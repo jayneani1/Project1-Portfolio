@@ -13,7 +13,7 @@
 I would like to leave the above chart up to give me a bigger idea of timelines/ something a bit more abstract than mine.
 
 
-color scheme links: 
+links: 
 - [mobile layout](https://res.cloudinary.com/dnxx8igwb/image/upload/v1583782315/90B2AA81-83BB-40EE-9869-0D06177C3C4D_oywvo8.jpg)
 - [desktop layout](https://wireframepro.mockflow.com/view/M723fba1f78894266e6adad9daa7e8c101583532357166)
 - [green](https://colorideas.net/olive-green-gray-crimson-635536-color-palette/)
