@@ -10,11 +10,12 @@
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
-Day 1/ Created wire frame on wire frame pro. Picked out several background color schemes and images. Going to need to use carousel, grid, flex, I want to make some features more animated with js (nav bar), I want nav bar links to scroll down the page, and have feature that scrolls back up. Downloaded materialize and will be using those features. started messing with grid layout to get the actual frame started. I have a feeling this may take me up to 45 hours. 
+I would like to leave the above chart up to give me a bigger idea of timelines/ something a bit more abstract than mine.
 
-https://wireframepro.mockflow.com/view/M723fba1f78894266e6adad9daa7e8c101583532357166
 
 color scheme links: 
+- [mobile layout](https://res.cloudinary.com/dnxx8igwb/image/upload/v1583782315/90B2AA81-83BB-40EE-9869-0D06177C3C4D_oywvo8.jpg)
+- [desktop layout](https://wireframepro.mockflow.com/view/M723fba1f78894266e6adad9daa7e8c101583532357166)
 - [green](https://colorideas.net/olive-green-gray-crimson-635536-color-palette/)
 - [red](https://far-wake.org/png-change-blacknwhite-color-palette-24-best-color-palettes-red-white-black-grey-images-5df8bb8280182b6d810ae5b2.html)
 - [img for black and red theme](https://www.123rf.com/photo_124250601_stock-vector-retro-memphis-seamless-pattern-80-90s-fashion-style-trendy-black-and-white-abstract-geometric-backgr.html)
