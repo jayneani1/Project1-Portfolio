@@ -34,8 +34,8 @@ links:
 
 | Component | Estimated time| time invested | Actual Time
 |---|---| ---| ---|
-|Total Layout	| 5hrs|	2.5 hrs|na
-|creating html and css components|3 hrs|na|na|
+|Total Layout	| 5hrs|	3 hrs|na
+|creating html and css components|3 hrs|1.5 hrs|na|
 |Working with API	|4.5hrs| na| na
 |carousel/ materlize |5.5 hrs|.5 hrs|na
 |doc form for resume|4 hrs|na|na
