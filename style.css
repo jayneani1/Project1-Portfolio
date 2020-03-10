@@ -1,26 +1,80 @@
 body {
-    color: blue;
     font-family: 'Lora', serif;
     margin-top: 50px;
-    background-image: url(https://res.cloudinary.com/dnxx8igwb/image/upload/v1583797677/succulents_ib3xsq.jpg);
-    background-size: cover;
+    text-align: center;
+    color: #635536;
+    
 }
 
-.navbar.transparent.navbar-expand-md navbar-dark bg-dark fixed-top {
-    border-width: 0px;
-    -webkit-box-shadow: 0px 0px;
-    box-shadow: 0px 0px;
-    background-color: rgba(0,0,0,0.0);
-    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
-    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
-    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+#name {
+    color: #49412e;
+    font-family: 'Lora', serif;
+    margin: 50px 0 0 0 ;
+    padding: 50px;
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+    background-size: cover;
+    background-image: url(https://res.cloudinary.com/dnxx8igwb/image/upload/v1583797677/succulents_ib3xsq.jpg);
 }
+
+.match {
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: auto;
+margin-right: 50px;
+background-color: #e1ddd6;
+opacity: 0.55;
+width: 100%;
+height: 300px;
+border: 1px solid #635536;
+display: flex;
+align-items: center;
+flex-direction: column;
+font-family: "lora", sans-serif;
+padding-left: 65px;
+} 
 
 #about {
-  color: #c8c78c;
-  font-family: 'Lora', serif;
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    text-align: center;
+    color: #635536;
+}
+
+#skills {
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    text-align: center;
+    color: #635536;
+}
+
+#resume {
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    padding: 0 0 0 10px;
+    text-align: center;
+    color: #635536;
+    background-color: #c8c78c;
+}
+
+#contact {
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    text-align: center;
+    color: #635536;
 }
 
 #projects {
-    background-color: #4d5a2f;
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    text-align: center;
+    color: #635536;
+}
+
+footer {
+    background-color: #4C6F51;
+    color: #D2DBBE;
+    text-align: center;
+    font-family: 'Lora', serif;
 }
