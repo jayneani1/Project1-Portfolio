@@ -39,8 +39,8 @@ links:
 |Working with API	|4.5hrs| na| na
 |carousel/ materlize |5.5 hrs|.5 hrs|na
 |doc form for resume|4 hrs|na|na
-|nav bar scrolling| 5 hrs| .5 hr | na
-|updating portfolio projs|3 hrs|1 hr |na 
+|nav bar scrolling| 5 hrs| 1 hr | na
+|updating portfolio projs|3 hrs| 1hr |na 
 |unique background|4 hrs |na |na
 |js animations|4 hrs |na | na
 |Debug and final touches| 3 hrs| na| na
