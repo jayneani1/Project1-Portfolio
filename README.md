@@ -36,11 +36,11 @@ links:
 |---|---| ---| ---|
 |Total Layout	| 5hrs|	4hrs|na
 |creating html and css components|3 hrs|1.5 hrs|na|
-|Working with API	|4.5hrs| na| na
-|carousel/ materlize |5.5 hrs|.5 hrs|na
+|Working with API	|4.5hrs| 2.5 hrs| na
+|cards |5.5 hrs| 2 hrs| 2 hrs
 |doc form for resume|4 hrs|na|na
 |nav bar scrolling| 5 hrs| 1 hr | na
-|updating portfolio projs|3 hrs| 1hr |na 
+|updating portfolio projs|3 hrs| 3hr |na 
 |unique background|4 hrs |na |na
 |js animations|4 hrs |na | na
 |Debug and final touches| 3 hrs| na| na
