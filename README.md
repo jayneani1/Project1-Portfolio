@@ -3,8 +3,8 @@
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 1| Project Description | complete
+|Day 1| Wireframes / Priority Matrix / Timeline | complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
@@ -34,12 +34,12 @@ links:
 
 | Component | Estimated time| time invested | Actual Time
 |---|---| ---| ---|
-|Total Layout	| 5hrs|	3 hrs|na
+|Total Layout	| 5hrs|	4hrs|na
 |creating html and css components|3 hrs|1.5 hrs|na|
 |Working with API	|4.5hrs| na| na
 |carousel/ materlize |5.5 hrs|.5 hrs|na
 |doc form for resume|4 hrs|na|na
-|nav bar scrolling| 5 hrs|na | na
+|nav bar scrolling| 5 hrs| .5 hr | na
 |updating portfolio projs|3 hrs|na |na 
 |unique background|4 hrs |na |na
 |js animations|4 hrs |na | na
