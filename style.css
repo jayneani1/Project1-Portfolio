@@ -1,3 +1,8 @@
+html {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
 body {
     font-family: 'Lora', serif;
     margin-top: 50px;
@@ -42,29 +47,6 @@ padding-left: 65px;
     color: #635536;
 }
 
-#skills {
-    font-family: 'Lora', serif;
-    margin-top: 50px;
-    text-align: center;
-    color: #635536;
-}
-
-#resume {
-    font-family: 'Lora', serif;
-    margin-top: 50px;
-    padding: 0 0 0 10px;
-    text-align: center;
-    color: #635536;
-    background-color: #c8c78c;
-}
-
-#contact {
-    font-family: 'Lora', serif;
-    margin-top: 50px;
-    text-align: center;
-    color: #635536;
-}
-
 #projects {
     font-family: 'Lora', serif;
     margin-top: 50px;
@@ -72,9 +54,79 @@ padding-left: 65px;
     color: #635536;
 }
 
+#skills {
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    text-align: center;
+    color: #635536;
+}
+
+.skill-name{
+    margin-top: 15px;
+    font-weight: 900;
+    color: #635536;
+    font-family: 'Lora', serif;
+    font-size: 17.5px;
+}
+
+#javascript {
+    width: 16%;
+    margin-top: 5px;
+  }
+
+  #htmlicon {
+    width: 19%;
+  }
+
+  #github {
+    padding-top: 10px;
+    width: 30%;
+  }
+
+  #git {
+    padding-top: 35px;
+    width: 20%;
+    }
+
+    #css6 {
+        width: 14%;
+        }
+
+        #bootstrap {
+            width: 20%;
+        }
+
+        #responsive {
+            width: 30%;
+        }
+
+        #jquery {
+            width: 20%;
+        }
+
+#resume {
+    font-family: 'Lora', serif;
+    margin-top: 50px;
+    height: 100px;
+    text-align: center;
+    color: #635536;
+    background-color: #c8c78c;
+}
+
+#contact {
+    display: inline;
+    font-family: 'Lora', serif;
+    margin-top: 20px;
+    text-align: center;
+    color: #635536;
+    height: 150px;
+}
+
+
 footer {
     background-color: #4C6F51;
     color: #D2DBBE;
     text-align: center;
     font-family: 'Lora', serif;
 }
+
