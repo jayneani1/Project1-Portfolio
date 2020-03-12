@@ -36,7 +36,7 @@ links:
 |---|---| ---| ---|
 |Total Layout	| 5hrs|	4hrs|na
 |creating html and css components|3 hrs|1.5 hrs|na|
-|Working with API	|4.5hrs| 2.5 hrs| na
+|Working with API	|4.5hrs| 4.5 hrs| na
 |cards |5.5 hrs| 2 hrs| 2 hrs
 |doc form for resume|4 hrs|na|na
 |nav bar scrolling| 5 hrs| 1 hr | na
