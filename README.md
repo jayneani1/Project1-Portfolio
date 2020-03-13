@@ -5,7 +5,7 @@
 |---|---| ---|
 |Day 1| Project Description | complete
 |Day 1| Wireframes / Priority Matrix / Timeline | complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | complete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
@@ -24,11 +24,11 @@ links:
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Create responsive layout for mobile | Incomplete
-|Day 1| Will have basic layout done for tablet and desktop, will have carousel in place | Incomplete
-|Day 3| Will create a scroll box to hold my resume, start working on responsive nav bar.| Incomplete
+|Day 1| Create responsive layout for mobile | complete
+|Day 1| Will have basic layout done for tablet and desktop, will have carousel in place | complete
+|Day 3| Will create a scroll box to hold my resume, start working on responsive nav bar.| Incomplete - cannot figure out how to do scrollbox practically
 |Day 4|  Finish responsive nav bar, get all other aspects in place. Get responisve js running | Incomplete
-|Day 5| Touch up portfolio projects to make them look good, may need to cut out some features if not done.  | Incomplete
+|Day 5| Touch up portfolio projects to make them look good, may need to cut out some features if not done.  | complete
 |Day 6| Present | Incomplete
 
 
