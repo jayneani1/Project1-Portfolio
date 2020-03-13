@@ -34,27 +34,27 @@ links:
 
 | Component | Estimated time| time invested | Actual Time
 |---|---| ---| ---|
-|Total Layout	| 5hrs|	4hrs|na
-|creating html and css components|3 hrs|1.5 hrs|na|
-|Working with API	|4.5hrs| 4.5 hrs| na
+|Total Layout	| 5hrs|	5hrs| 5 hrs
+|creating html and css components|3 hrs|3 hrs|3 hrs|
+|Working with API	|4.5hrs| 4.5 hrs| 4.5hrs
 |cards |5.5 hrs| 2 hrs| 2 hrs
-|doc form for resume|4 hrs|na|na
-|nav bar scrolling| 5 hrs| 1 hr | na
-|updating portfolio projs|3 hrs| 3hr |na 
-|unique background|4 hrs |na |na
-|js animations|4 hrs |na | na
-|Debug and final touches| 3 hrs| na| na
-|Total|41hrs|na|na	
+|doc form for resume|4 hrs|2 hr|na
+|nav bar scrolling| 5 hrs| 1 hr | 2 hr
+|updating portfolio projs|3 hrs| 3hr | 3 hr
+|unique background|4 hrs |1 hr |1 hr
+|js animations|4 hrs |1.5 hrs | na
+|Debug and final touches| 3 hrs| 1 hr| na
+|importing json projects| 2 hrs | 4 hrs | 4 hrs
+|Total|41hrs|28|na	
 
 MVP:
 - responsive nav 
-- carousel w/ portfolio links
-- doc form for resume
+- doc form for resume -- i cant find how to do this anywhere. I was able to make a scrollbox and put images in, but it wouldn't center and seemed impractical.
 - updated portfolio projects
 
 Post MVP: 
 - animated javascript add ons.(ex in liana penns portfolio)
-- creating unique backgrounds to have text written in/ around (like in linked inspo site)
+- creating unique backgrounds to have text written in/ around (like in linked inspo site) -- having an issue with this and screen sizes, but working on it
 - custom background
 
 
