@@ -6,19 +6,13 @@ let id = '1Ox49O2OQueIyS5QUvW0Jp1bW7SDUO1Rge2cf-b_2LfU'
 // let source = `https://spreadsheets.google.com/feeds/list/1Ox49O2OQueIyS5QUvW0Jp1bW7SDUO1Rge2cf-b_2LfU/od6/public/values?alt=json`
 let source = `https://spreadsheets.google.com/feeds/list/${id}/od6/public/values?alt=json`
 
-// ES6 - fetch
-
-// fetch queries the url provided and requests that the data be sent to it 
-// it receives JSON => JS Object Notation
-// we use .json() to parse the data from "{}" to an full blown {}
 fetch(source)
-  .then( response => response.json() ) // this parses the data from string back into an object
+  .then( response => response.json() ) 
   .then( data =>  {
       console.log('data', data)
-      // data.feed.entry is the array that stores our projects
-      // the projects are stored as objects
+
       let projects = data.feed.entry.map( project => {
-        // console.log('project', project.gsx$title.$t)
+       
         return {
           title: project.gsx$title.$t,
           image: project.gsx$image.$t,
@@ -27,8 +21,7 @@ fetch(source)
         }
       })
       app(projects)
-  }) // this provides us access to the parse data
-  // .catch( err => console.log('err', err))
+  }) 
 
   let $sectionContainer = $('.projects')
 
@@ -54,5 +47,14 @@ function app(projects) {
         return false
     })
    })
-}
+};
 
+// Marshal walked me through how to do this then looked at card css together
+
+
+
+ScrollReveal().reveal('.scrollAbout',  { delay: 450 });
+ScrollReveal().reveal('.scrollProj',  { delay: 450 });
+ScrollReveal().reveal('.scrollSkills',  { delay: 450 });
+ScrollReveal().reveal('.scrollResume',  { delay: 450 });
+ScrollReveal().reveal('.scrollContact',  { delay: 450 });

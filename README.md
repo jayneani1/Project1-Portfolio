@@ -6,8 +6,8 @@
 |Day 1| Project Description | complete
 |Day 1| Wireframes / Priority Matrix / Timeline | complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | complete
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
+|Day 4| MVP & Bug Fixes | complete
+|Day 5| Final Touches | complete
 |Day 6| Present | Incomplete
 
 I would like to leave the above chart up to give me a bigger idea of timelines/ something a bit more abstract than mine.
@@ -38,14 +38,14 @@ links:
 |creating html and css components|3 hrs|3 hrs|3 hrs|
 |Working with API	|4.5hrs| 4.5 hrs| 4.5hrs
 |cards |5.5 hrs| 2 hrs| 2 hrs
-|doc form for resume|4 hrs|2 hr|na
+|doc form for resume|4 hrs|2 hr|2 hr
 |nav bar scrolling| 5 hrs| 1 hr | 2 hr
 |updating portfolio projs|3 hrs| 3hr | 3 hr
 |unique background|4 hrs |1 hr |1 hr
-|js animations|4 hrs |1.5 hrs | na
-|Debug and final touches| 3 hrs| 1 hr| na
+|js animations|4 hrs |1.5 hrs | 2.5 hrs
+|Debug and final touches| 3 hrs| 1 hr| 2hrs
 |importing json projects| 2 hrs | 4 hrs | 4 hrs
-|Total|41hrs|28|na	
+|Total|41hrs|28|33	
 
 MVP:
 - responsive nav 
@@ -64,3 +64,47 @@ Use Flexbox for content
 Must be mobile mobile first, then tablet and desktop responsive.
 Must pull in projects via API call from google sheet
 Be deployed and accessible online either via Github Pages or Surge.
+
+
+Code Snippet
+
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #4C6F51;">
+
+        <button class="navbar-toggler collapse show" type="button" data-toggle="collapse" data-target="#collapse_target" aria-controls="collapse_target" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+            <div class="navbar-collapse collapse" id="collapse_target" style>
+
+        <ul class="navbar-nav">
+            <li class="nav-item">
+                <a class="nav-link" href="#name">Home </a>
+            </li>    
+            <li class="nav-item">
+                <a class="nav-link" href="#about">About </a>
+            </li>    
+            <li class="nav-item">
+                <a class="nav-link" href="#proj">Projects</a>
+            </li>    
+            <li class="nav-item">
+                <a class="nav-link" href="#skills">Skills</a>
+            </li>    
+            <li class="nav-item">
+                <a class="nav-link" href="#resume">Resume</a>
+            </li>    
+            <li class="nav-item">
+                <a class="nav-link" href="#contact">Contact</a>
+            </li>    
+          </ul>
+        </div>
+    </nav> 
+
+
+
+Issues and Resolutions
+
+- Discovering what an iframe was and not being able to make it fit onto the screen properly.
+- creating html code then turning it into jQuery caused it to lose its style. I had to go back and figure out what class was what. 
+- I actually did have the example error several times. ReferenceError: '$' is not defined. This was fixed by rearranging my functions, and also adding the correct number of {} .
+- I was unable ti get scroll appear to work after my projects section. When I took that section out things works fine. I was also unable to properly troubleshoot code revea; or manipulate it in any way.
