@@ -57,4 +57,4 @@ ScrollReveal().reveal('.scrollAbout',  { delay: 450 });
 ScrollReveal().reveal('.scrollProj',  { delay: 450 });
 ScrollReveal().reveal('.scrollSkills',  { delay: 450 });
 ScrollReveal().reveal('.scrollResume',  { delay: 450 });
-ScrollReveal().reveal('.scrollContact',  { delay: 450 });
+ScrollReveal().reveal('.scrollContact',  { delay: 450 }); 

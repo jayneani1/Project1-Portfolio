@@ -53,10 +53,16 @@
 
     <!-- name-->
     <section id="name">
-        <h1 class="match">Jayne Aniello
-            <br>
-          <span class="dev">  Full Stack Developer </span>
-        </h1>
+            
+            <!-- Container element -->
+            <div class="parallax">
+                <h1 class="match">Jayne Aniello
+                    <br>
+                  <span class="dev">  Full Stack Developer </span>
+                </h1>
+
+            </div>
+
             </section>
 
             
@@ -126,14 +132,12 @@
 
    <!-- resume-->
 <section id="resume">
-    <div class="scrollResume">
    <h2> Resume </h2>
 
    <p class="resLink"><a href="https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A8934a855-0ba2-4f49-9b32-b29cdd716808" download>
     <img src="https://cdn1.iconfinder.com/data/icons/pixel-perfect-at-16px-volume-2/16/5098-512.png" width=10%, height="10%";" alt="W3Schools">
   </a>
    </p>
-</div>
 </section>
 
 <!-- contact-->
@@ -144,15 +148,15 @@
         <div class="container cont">
             <form action="action_page.php">
           
-              <label for="fname">Name</label>
+             <!-- <label for="fname">Name</label> -->
               <input type="text" id="fname" name="firstname" placeholder="Your name..">
           
-              <label for="lname">Email</label>
-              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+             <!-- <label for="lname">Email</label> -->
+              <input type="text" id="lemail" name="email" placeholder="Your email..">
           
-              <label for="subject">Subject</label>
+              <!--<label for="subject">Subject</label> -->
               <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-          
+          <br>
               <input type="submit" value="Submit">
           
             </form>
